@@ -1,0 +1,1 @@
+Short Sword : 0 : Long sword : 1 : Long Bow : 2 : Small healing Potion : 0 : High healing Potion : 1 : Small damage potion : 2 : High damage potion : 3 : 
